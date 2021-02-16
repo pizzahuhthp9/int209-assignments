@@ -1,3 +1,8 @@
+# Linux assignment
+
+## 1. Excercise File
+
+```bash
 mkdir wipcamp12
 mkdir wipcamp12/programmer
 mkdir wipcamp12/website
@@ -11,3 +16,4 @@ rm wipcamp13/slide03.txt
 mv wipcamp12/slide01.txt wipcamp13/newslide.txt
 rm -rf wipcamp12
 rm -rf wipcamp13
+```
