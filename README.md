@@ -1,7 +1,5 @@
 int209-assignments
 
-Name: Noppawit Chowarun
-
-ID: 62130500127
-
-IT25 SIT, KMUTT
+- Noppawit Chowarun
+- 62130500127
+- IT25 SIT, KMUTT
